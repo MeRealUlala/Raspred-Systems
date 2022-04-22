@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/src/SchClient.java" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/src/SchOperation.java" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/src/SchServer.java" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/src/SchService.java" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/src/Schyotchik.java" charset="windows-1251" />
+  </component>
+</project>
